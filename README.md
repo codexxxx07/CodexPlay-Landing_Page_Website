@@ -217,7 +217,7 @@ Landing_Page/
 
 ## 👤 Author
 
-**CodexPlay Team**
+**Krish**
 - Frontend Development Internship Project
 - Built with modern web technologies and best practices
 
@@ -237,5 +237,4 @@ This is a portfolio project. For suggestions or improvements, please open an iss
 
 ---
 
-**Version**: 1.0.0  
-**Last Updated**: June 2026
+**© 2026 Krish | Built with ❤️ and Code | All Rights Reserved**
