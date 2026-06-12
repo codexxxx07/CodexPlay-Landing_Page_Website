@@ -188,16 +188,17 @@ Landing_Page/
 ## 🖼️ Screenshots
 
 ### Hero Section
-![Hero Section](https://via.placeholder.com/1200x600/8B5CF6/FFFFFF?text=Hero+Section)
+![Hero Section](/assets/Img1.png)
 
 ### Games Grid
-![Games Section](https://via.placeholder.com/1200x500/7C3AED/FFFFFF?text=Games+Section)
+![Games Section](/assets/Img2.png)
+![Games Section](/assets/Img3.png)
 
 ### Dark Mode
-![Dark Mode](https://via.placeholder.com/1200x600/1E1E32/FFFFFF?text=Dark+Mode)
+![Dark Mode](/assets/Img4.png)
 
 ### Mobile View
-![Mobile View](https://via.placeholder.com/400x800/8B5CF6/FFFFFF?text=Mobile+View)
+![Mobile View](/assets/Img5.png)
 
 ## 🔮 Future Improvements
 
